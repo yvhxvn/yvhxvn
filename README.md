@@ -34,7 +34,7 @@
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn] linkedin.com/in/yevhenii-myronenko-5a3919306
+- 💼 [LinkedIn] https://www.linkedin.com/in/yevhenii-myronenko-5a3919306
 - ✉️ Email: yvh.myronenko@gmail.com
 - 🌍 Based in the UK, open to remote and Birmingham-based roles
 
