@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mii Vlastelyn
+# 👋 Hi, I'm Yevhenii
 
 🎓 Young IT enthusiast from Ukraine, currently living in the United Kingdom.  
 💻 Passionate about computers, hardware, and helping people solve tech problems.  
