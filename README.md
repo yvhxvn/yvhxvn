@@ -1,40 +1,42 @@
 # 👋 Hi, I'm Yevhenii
 
-🎓 Young IT enthusiast from Ukraine, currently living in the United Kingdom.  
-💻 Passionate about computers, hardware, and helping people solve tech problems.  
-🎯 My goal is to become an IT Support or Hardware Specialist in the UK and grow in the tech industry.
+💻 Aspiring IT professional originally from Ukraine, currently based in Smethwick, UK.  
+🎯 Focused on developing skills in **Linux**, **DevOps**, and **systems administration**.  
+🌱 Building a career with purpose, structure, and long-term stability.
 
 ---
 
 ## 🛠️ Skills & Interests
 
-- **IT Support & Troubleshooting** – hardware diagnostics, OS reinstallations, PC builds and upgrades
-- **Operating Systems** – Windows, ChromeOS, beginner-level Linux
-- **Technical Documentation** – writing detailed, user-friendly guides with visuals
-- **Learning Paths** – IT support, PC repair, system administration
+- **PC Hardware**: custom PC builds, hardware diagnostics, component upgrades  
+- **Operating Systems**: Windows (advanced), ChromeOS, beginner-level Linux  
+- **Technical Troubleshooting**: OS installation, BIOS configuration, system recovery  
+- **Documentation**: writing clear, step-by-step guides with visuals  
+- **Learning Goals**: Linux fundamentals, bash scripting, infrastructure tools
 
 ---
 
-## 📌 What You'll Find Here
+## 📌 On This GitHub
 
-- 📘 **Tech Guides** – like how to install Windows 10 on a Chromebook
-- 🔧 **Practical Projects** – DIY fixes, PC building, OS recovery
-- 📹 **Creative Work** – beginner-level edits and tutorials for social media
-- 🚀 More coming soon as I grow my portfolio
-
----
-
-## 🌱 Currently Working On
-
-- Earning certifications (e.g., CompTIA A+, ITIL Foundation)
-- Looking for internships or entry-level roles in IT support
-- Guides on how to repair laptops
+- 📘 **Guides** – like [installing Windows 10 on a Chromebook](https://github.com/yvhxvn/install-win-on-chromebook)  
+- 🧪 **Learning Projects** – Linux exercises, experiments with bash, system config  
+- 🧩 **Mini Tools** – small utilities and scripts  
+- 🧱 Upcoming: virtual lab environments, Ansible automation, CI/CD practice, Docker basics
 
 ---
 
-## 📫 Get in Touch
+## 🚀 Currently Working On
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yevhenii-myronenko-5a3919306
-- ✉️ Email: yvh.myronenko@gmail.com
-- 🌍 Based in the UK, open to remote and Birmingham-based roles
+- 📚 Building a strong Linux foundation (file system, processes, permissions, scripting)  
+- 💼 Seeking a part-time job while studying towards IT infrastructure roles  
+- 🧭 Documenting my learning journey and progress publicly  
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yevhenii-myronenko-5a3919306)  
+- 📧 yvh.myronenko@gmail.com  
+- 📍 Open to remote and West Midlands-based entry-level opportunities
+
 
