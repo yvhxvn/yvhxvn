@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yevhenii
 
 💻 Aspiring IT professional originally from Ukraine, currently based in Smethwick, UK.  
-🎯 Focused on developing skills in **Linux**, **DevOps**, and **systems administration**.  
+🎯 Focused on developing skills in **Linux**, **Network/Systems administration**.  
 🌱 Building a career with purpose, structure, and long-term stability.
 
 ---
@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Interests
 
 - **PC Hardware**: custom PC builds, hardware diagnostics, component upgrades  
-- **Operating Systems**: Windows (advanced), ChromeOS, beginner-level Linux  
+- **Operating Systems**: Windows, ChromeOS, Linux  
 - **Technical Troubleshooting**: OS installation, BIOS configuration, system recovery  
 - **Documentation**: writing clear, step-by-step guides with visuals  
 - **Learning Goals**: Linux fundamentals, bash scripting, infrastructure tools
