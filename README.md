@@ -25,14 +25,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- 📚 Building a strong Linux foundation (file system, processes, permissions, scripting)  
-- 💼 Seeking a part-time job while studying towards IT infrastructure roles  
-- 🧭 Documenting my learning journey and progress publicly  
-
----
-
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yevhenii-myronenko-5a3919306)  
