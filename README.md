@@ -18,7 +18,6 @@
 
 ## 📌 On This GitHub
 
-- 📘 **Guides** – like [How-to-install-Windows-on-Chromebook](https://github.com/yvhxvn/How-to-install-Windows-on-Chromebook)
 - 🧪 **Learning Projects** – Linux exercises, experiments with bash, system config  
 - 🧩 **Mini Tools** – small utilities and scripts  
 - 🧱 Upcoming: virtual lab environments, Ansible automation, CI/CD practice, Docker basics
